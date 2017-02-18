@@ -1,4 +1,4 @@
-# Approaches to Dependency Injection in Scala
+# Approaches to Dependency Injection in Scala<br>(aka "99 Ways to DI")
 
 Slides for my lightning talk on dependency injection at [Scala Central #5][scala-central].
 
@@ -34,7 +34,7 @@ The Free monad...
 - [Pere Villega - On Free Monads](http://perevillega.com/understanding-free-monads)
 - [Pere Villega - Free Monads using FreeK](http://perevillega.com/freek-and-free-monads)
 
-## 99 Ways To DI
+## 99 Ways to DI
 
 I originally gave this talk with the alternative title "99 Ways To DI",
 a reference to the Megadeth track "99 Ways To Die"
